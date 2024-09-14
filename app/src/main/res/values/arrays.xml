@@ -3,11 +3,25 @@
     <array name="internal_app_icon_names">
         <item>com.android.shell</item>
         <item>com.v2ray.ang</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>org.telegram.messenger.web</item>
+        <item>com.taobao.taobao</item>
+        <item>com.termux</item>
+        <item>aidepro.top</item>
         
     </array>
     <array name="internal_app_icon_values">
         <item>@drawable/stat_sys_com_android_shell</item>
         <item>@drawable/stat_sys_com_v2ray_ang</item>
+        <item>@drawable/stat_sys_com_eg_android_alipaygphone</item>
+        <item>@drawable/stat_sys_com_tencent_mm</item>
+        <item>@drawable/stat_sys_com_tencent_mobileqq</item>
+        <item>@drawable/stat_sys_org_telegram_messenger_web</item>
+        <item>@drawable/stat_sys_com_taobao_taobao</item>
+        <item>@drawable/stat_sys_com_termux</item>
+        <item>@drawable/stat_sys_aidepro_top</item>
         
     </array>
 </resources>
