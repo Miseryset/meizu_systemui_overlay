@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="customized_color">@android:color/system_accent1_400</color>
+    <!--自定义颜色-->
+    <color name="qs_icon_bg_active">@color/customized_color</color>
+    <!--快速设置-开启选项-->
+    <color name="qs_icon_bg_active_blue">@color/customized_color</color>
+    <!--快速设置-开启选项蓝-->
+    <color name="qs_icon_bg_active_green">@color/customized_color</color>
+    <!--快速设置-开启选项绿-->
+    <color name="qs_slider_progress">@android:color/system_accent1_300</color>
+    <!--亮度和音量滑动条-->
+    <color name="qs_square_tile_active_bg_color">@color/customized_color</color>
+    <!--快速设置磁贴-开启选项-->
+    <color name="qs_square_tile_active_bg_color_for_bright">@android:color/system_accent1_300</color>
+    <!--快速设置磁贴-开启选项2-如手电筒，自动亮度-->
+    <color name="center_background_color">@color/system_volume_panel_bg</color>
+    <!--快速设置大背景，亮色-->
+    <color name="center_background_color_night">@color/system_volume_panel_bg</color>
+    <!--快速设置大背景，暗色-->
+    <color name="qs_mediapalyer_artistText_color">@color/customized_color</color>
+    <!--媒体通知-艺术家-->
+    <color name="qs_mediapalyer_progressbar_background_tint">@android:color/system_accent1_100</color>
+    <!--媒体通知-滚动条背景-->
+    <color name="qs_mediapalyer_progressbar_thumb_tint">@color/customized_color</color>
+    <!--媒体通知-滚动条圆点-->
+    <color name="qs_mediapalyer_progressbar_tint">@color/customized_color</color>
+    <!--媒体通知-滚动条前景-->
+    <color name="qs_mediapalyer_seamlessIcon_color">@android:color/system_accent2_400</color>
+    <!--媒体通知-二级通知界面按钮-->
+    <color name="qs_mediapalyer_seamlessText_color">@android:color/system_accent2_400</color>
+    <!--媒体通知-当前播放设备名称-->
+    <color name="qs_mediapalyer_titleText_color">@color/customized_color</color>
+    <!--媒体通知-标题-->
+    <color name="qs_mediaplayer_play_button_color">@android:color/system_accent2_400</color>
+    <!--媒体通知-按钮-->
+    <color name="qs_media_paging_indicator">@android:color/system_accent1_300</color>
+    <!--媒体通知-多个通知时下方指示点-->
+    <color name="qs_media_dialog_device_name_color">@android:color/system_accent2_400</color>
+    <!--媒体通知-二级界面-当前播放设备名称-->
+    <color name="media_dialog_item_chosen_background_flyme_style">@android:color/system_accent1_300</color>
+    <!--媒体通知-二级界面-音量拖动条-->
+    <color name="system_volume_panel_title_color">@android:color/system_accent1_500</color>
+    <!--音量面板-头部标题-->
+    <!--<color name="system_volume_panel_bg">@android:color/system_accent1_100</color>-->
+    <!--音量面板-整体背景-->
+    <color name="gut_channel_setting_view_bg_selected_color">@color/customized_color</color>
+    <!--通知长按后弹出的通知提醒强度-选定项-->
+    <color name="mz_switch_track_dark_on_enabled_color">@android:color/system_accent3_300</color>
+    <color name="mz_theme_color_blue">@android:color/system_accent1_400</color>
+    
+    <color name="fd_sys_color_primary_blue">@android:color/system_accent1_400</color>
+    <!--主颜色蓝-->
+    <color name="Blue_1">@android:color/system_accent1_10</color>
+    <color name="Blue_2">@android:color/system_accent1_50</color>
+    <color name="Blue_3">@android:color/system_accent1_100</color>
+    <color name="Blue_4">@android:color/system_accent1_200</color>
+    <color name="Blue_5">@android:color/system_accent1_300</color>
+    <color name="Blue_6">@android:color/system_accent1_400</color>
+    <color name="Blue_7">@android:color/system_accent1_500</color>
+    <color name="Blue_8">@android:color/system_accent1_600</color>
+    <color name="Blue_9">@android:color/system_accent1_700</color>
+    <color name="Blue_10">@android:color/system_accent1_800</color>
+    
+    <color name="fd_sys_color_surface_bright_default">@android:color/system_accent1_10</color>
+    <!--活动过度颜色-->
+    <color name="fd_sys_color_surface_container_default">@android:color/system_accent1_50</color>
+    <!--众多灰色-->
+    <color name="fd_sys_color_surface_container_high_default">@android:color/system_accent2_300</color>
+    <!--开关关闭背景颜色-->
+    <color name="fd_sys_color_surface_container_highest_default">@android:color/system_accent1_400</color>
+    <!--选项条目小三角-->
+    <color name="fd_sys_color_surface_container_low_default">@android:color/system_accent1_200</color>
+    <!--拖动条背景颜色-->
+    <color name="fd_sys_color_surface_container_lowest_default">@android:color/system_accent2_50</color>
+    <!--设置背景颜色-->
+    <color name="fd_sys_color_surface_dim_default">#ff00ff</color>
+    
+</resources>

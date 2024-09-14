@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@android:id/background">
+        <shape>
+            <size
+                android:height="4.0dip" />
+            <corners
+                android:radius="10.0dip" />
+        </shape>
+    </item>
+    <item
+        android:id="@android:id/secondaryProgress">
+        <scale
+            android:scaleWidth="100%">
+            <shape>
+                <size
+                    android:height="4.0dip" />
+                <corners
+                    android:radius="10.0dip" />
+                <solid
+                    android:color="@color/qs_mediapalyer_progressbar_background_tint" />
+            </shape>
+        </scale>
+    </item>
+    <item
+        android:id="@android:id/progress">
+        <scale
+            android:scaleWidth="100%">
+            <shape>
+                <size
+                    android:height="4.0dip" />
+                <corners
+                    android:radius="10.0dip" />
+                <solid
+                    android:color="@color/qs_mediapalyer_progressbar_tint" />
+            </shape>
+        </scale>
+    </item>
+</layer-list>

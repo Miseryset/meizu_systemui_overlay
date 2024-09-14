@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qs_mediapalyer_progressbar_background_tint">@android:color/system_accent1_100</color>
+    <color name="qs_mediapalyer_progressbar_thumb_tint">@color/customized_color</color>
+    <color name="qs_mediapalyer_progressbar_tint">@color/customized_color</color>
+    <color name="qs_media_dialog_device_name_color">@android:color/system_accent1_400</color>
+    <color name="gut_channel_setting_view_bg_selected_color">@color/customized_color</color>
+</resources>

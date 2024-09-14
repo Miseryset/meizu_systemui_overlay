@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="internal_app_icon_names">
+        <item>com.android.shell</item>
+        <item>com.v2ray.ang</item>
+        
+    </array>
+    <array name="internal_app_icon_values">
+        <item>@drawable/stat_sys_com_android_shell</item>
+        <item>@drawable/stat_sys_com_v2ray_ang</item>
+        
+    </array>
+</resources>

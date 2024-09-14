@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="flyme_fingerprint_bg">@drawable/flyme_fingerprint_others_bg</item>
+</resources>
