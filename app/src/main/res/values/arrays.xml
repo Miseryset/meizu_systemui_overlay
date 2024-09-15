@@ -10,6 +10,13 @@
         <item>com.taobao.taobao</item>
         <item>com.termux</item>
         <item>aidepro.top</item>
+        <item>app.revanced.android.youtube</item>
+        <item>com.google.android.youtube</item>
+        <item>com.twitter.android</item>
+        <item>com.hihonor.cloudmusic</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.deniscerri.ytdl</item>
+        <item>com.android.vending</item>
         
     </array>
     <array name="internal_app_icon_values">
@@ -22,6 +29,13 @@
         <item>@drawable/stat_sys_com_taobao_taobao</item>
         <item>@drawable/stat_sys_com_termux</item>
         <item>@drawable/stat_sys_aidepro_top</item>
+        <item>@drawable/stat_sys_app_revanced_android_youtube</item>
+        <item>@drawable/stat_sys_app_revanced_android_youtube</item>
+        <item>@drawable/stat_sys_com_twitter_android</item>
+        <item>@drawable/stat_sys_com_netease_cloudmusic</item>
+        <item>@drawable/stat_sys_com_netease_cloudmusic</item>
+        <item>@drawable/stat_sys_com_deniscerri_ytdl</item>
+        <item>@drawable/stat_sys_com_android_vending</item>
         
     </array>
 </resources>
