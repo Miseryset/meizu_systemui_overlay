@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Apktool M – https://maximoff.su/apktool -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+  android:width="30dp"
+  android:height="32dp"
+  android:viewportWidth="30"
+  android:viewportHeight="32">
+  <group
+    android:translateX="3.0"
+    android:translateY="3.0">
+    <group
+      android:scaleX="0.5"
+      android:scaleY="0.5">
+      <path
+        android:fillColor="#00000000"
+        android:strokeColor="#ff000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M4.89 7.05h23.53l-11 25.42h13.17L34.26 41H4.51l11-25.42h-5zm23.53 0L43.51 41h-9.25L24 17.25" />
+    </group>
+  </group>
+</vector>

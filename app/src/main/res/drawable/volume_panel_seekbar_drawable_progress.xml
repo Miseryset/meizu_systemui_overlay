@@ -2,7 +2,7 @@
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android">
     <solid
-        android:color="@android:color/system_accent1_400" />
+        android:color="@color/accent1_400_a" />
     <corners
         android:radius="12.0dip" />
 </shape>

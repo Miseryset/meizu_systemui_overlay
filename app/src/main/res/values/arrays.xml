@@ -17,6 +17,14 @@
         <item>com.netease.cloudmusic</item>
         <item>com.deniscerri.ytdl</item>
         <item>com.android.vending</item>
+        <item>io.github.forkmaintainers.iceraven</item>
+        <item>ru.zdevs.zarchiver.pro</item>
+        <item>idm.internet.download.manager.plus</item>
+        <item>com.baidu.netdisk</item>
+        <item>com.xunmeng.pinduoduo</item>
+        <item>com.jingdong.app.mall</item>
+        <item>com.xunlei.downloadprovider</item>
+        <item>com.smzdm.client.android</item>
         
     </array>
     <array name="internal_app_icon_values">
@@ -36,6 +44,14 @@
         <item>@drawable/stat_sys_com_netease_cloudmusic</item>
         <item>@drawable/stat_sys_com_deniscerri_ytdl</item>
         <item>@drawable/stat_sys_com_android_vending</item>
+        <item>@drawable/stat_sys_io_github_forkmaintainers_iceraven</item>
+        <item>@drawable/stat_sys_ru_zdevs_zarchiver_pro</item>
+        <item>@drawable/stat_sys_idm_internet_download_manager_plus</item>
+        <item>@drawable/stat_sys_com_baidu_netdisk</item>
+        <item>@drawable/stat_sys_com_xunmeng_pinduoduo</item>
+        <item>@drawable/stat_sys_com_jingdong_app_mall</item>
+        <item>@drawable/stat_sys_com_xunlei_downloadprovider</item>
+        <item>@drawable/stat_sys_com_smzdm_client_android</item>
         
     </array>
 </resources>
